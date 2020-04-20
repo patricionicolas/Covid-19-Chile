@@ -1,1 +1,1 @@
-Covid-19-Chile
+Se deja la actualización de este tipo de reportes. La data era puesta a mano de los informes diarios que entregaba el MINSAL. Esta era la forma de obtener información antes de que el Ministerio de Ciencia entregara datos.
