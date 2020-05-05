@@ -1,5 +1,4 @@
 # Visualización de los datos de Covid-19 en Chile.
-La información es obtenida desde el repositorio del Ministerio de ciencias.
 
 * [Totales Nacionales](https://github.com/patricionicolas/Covid-19-Chile/blob/master/Totales%20Nacionales.ipynb): Información sobre los datos totales más importante y su comportamiento a lo largo del tiempo.
   
@@ -17,3 +16,11 @@ La información es obtenida desde el repositorio del Ministerio de ciencias.
 * [Ventiladores](https://github.com/patricionicolas/Covid-19-Chile/blob/master/Ventiladores.ipynb): Información sobre los ventiladores mecánicos y sus estados.
   
   Gráficos: Cantidad de ventiladores disponibles vs. ventiladores utilizados. Porcentaje de ventiladores disponibles vs. ventiladores utilizados. Ventiladores totales, disponibles y utilizados a lo largo del tiempo.
+
+# Datos
+
+Toda la información obtenida para realizar los distintos gráficos fueron obtenidos desde repositorio del Ministerio de ciencias. El cual puede encontrar [aquí](https://github.com/MinCiencia/Datos-COVID19): 
+
+#Autor
+
+Patricio Riffo Figueroa - Ing. Civil En Informatica.
