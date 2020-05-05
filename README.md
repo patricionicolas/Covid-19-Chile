@@ -21,6 +21,6 @@
 
 Toda la información obtenida para realizar los distintos gráficos fueron obtenidos desde repositorio del Ministerio de ciencias. El cual puede encontrar [aquí](https://github.com/MinCiencia/Datos-COVID19): 
 
-#Autor
+# Autor
 
 Patricio Riffo Figueroa - Ing. Civil En Informatica.
