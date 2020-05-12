@@ -19,8 +19,8 @@
 
 # Datos
 
-Toda la información obtenida para realizar los distintos gráficos fueron obtenidos desde repositorio del Ministerio de ciencias. El cual puede encontrar [aquí](https://github.com/MinCiencia/Datos-COVID19): 
+Toda la información obtenida para realizar los distintos gráficos fueron obtenidos desde repositorio del Ministerio de ciencias. El cual puede encontrar [aquí](https://github.com/MinCiencia/Datos-COVID19). 
 
 # Autor
 
-Patricio Riffo Figueroa - Ing. Civil En Informatica.
+[Patricio Riffo Figueroa](https://www.linkedin.com/in/patricio-riffo-figueroa-05b678125/) - I. Civil En Informatica.
