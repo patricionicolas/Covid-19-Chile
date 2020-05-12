@@ -17,6 +17,8 @@
   
   Gráficos: Cantidad de ventiladores disponibles vs. ventiladores utilizados. Porcentaje de ventiladores disponibles vs. ventiladores utilizados. Ventiladores totales, disponibles y utilizados a lo largo del tiempo.
 
+* [Tasa de letalidad](https://github.com/patricionicolas/Covid-19-Chile/blob/master/Tasa%20de%20letalidad.ipynb): Información sobre como se ha comportado la tasa de letalidad en un periodo de tiempo para el país. Y tasa de letalidad para todas las regiones del mismo.
+
 # Datos
 
 Toda la información obtenida para realizar los distintos gráficos fueron obtenidos desde repositorio del Ministerio de ciencias. El cual puede encontrar [aquí](https://github.com/MinCiencia/Datos-COVID19). 
